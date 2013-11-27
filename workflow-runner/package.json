@@ -1,0 +1,15 @@
+{
+  "name": "workflow-runner-example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node workflow-runner.js"
+  },
+  "dependencies": {
+    "wf": "0.9.0",
+    "wf-redis-backend": "0.9.4",
+    "sigyan": "0.2.0",
+    "restify": "2.3.5",
+    "node-uuid": "1.4.0"
+  }
+}
