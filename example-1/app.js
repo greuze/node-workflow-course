@@ -1,7 +1,7 @@
 // Usage example for wf using it as a node module to create
 // workflows, queue jobs and obtain the results.
 
-// NOTE it needs `./node_modules/.bin/workflow-runner` running before you
+// NOTE it needs workflow-runner to be running before you
 // run this file.
 
 // Call from parent directory with:
